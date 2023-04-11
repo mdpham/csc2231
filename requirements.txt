@@ -1,0 +1,4 @@
+brian2==2.4.2
+matplotlib==3.5.1
+numpy==1.21.5
+pyrho==0.9.4
