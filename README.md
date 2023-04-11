@@ -22,7 +22,7 @@ The output layer has Bayer-patterned connectivity to the input to interpolate th
 ## Spike train encoding of images
 Opsin based training between two populations (input, output) can be done using spike-timing dependent plasticity (STDP)
 
-![stdp](https://www.researchgate.net/profile/Mojtaba-Madadi-Asl/publication/324705724/figure/fig3/AS:618625325080577@1524503179642/Asymmetric-STDP-learning-window-Spike-timing-window-of-STDP-for-the-induction-of.png)
+![stdp](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/STDP-Fig1.jpg/800px-STDP-Fig1.jpg?20210831074413)
 
 | | Opsin-based encoding | Poisson rate-coded |
 |----------|----------|----------|
